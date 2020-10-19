@@ -36,16 +36,6 @@ for i in range(8):
         x1+=70; x2+=70
 
 
-#B= Button(window,text='Regular Hill Climbing',width=2,bg='blue',fg='black',font='bold')
-#canvas.create_window(780,150,window=B,height=30,width=150)
-
-#B= Button(window,text='Random Restart Hill Climbing',width=2,bg='gold2',fg='black',font='bold')
-#canvas.create_window(780,200,window=B,height=30,width=220)
-
-
-#L1 = Label(canvas, text="Select Algorithm",bg='ivory3',fg='black',font='bold')
-#canvas.create_window(785,80,window=L1,height=30,width=150)
-
 x1,y1=40,40
 x2,y2=110,180
 x3,y3=180,320
